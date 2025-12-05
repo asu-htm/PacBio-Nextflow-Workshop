@@ -1,0 +1,6 @@
+sample-id	absolute-filepath
+mouse_1	/home/ASURITE USER/nextflow_pacbio_2025_workshop/fastq/mouse_1.fastq
+mouse_2	/home/ASURITE USER/nextflow_pacbio_2025_workshop/fastq/mouse_2.fastq
+mouse_3	/home/ASURITE USER/nextflow_pacbio_2025_workshop/fastq/mouse_3.fastq
+mouse_4	/home/ASURITE USER/nextflow_pacbio_2025_workshop/fastq/mouse_4.fastq
+mouse_5	/home/ASURITE USER/nextflow_pacbio_2025_workshop/fastq/mouse_5.fastq
